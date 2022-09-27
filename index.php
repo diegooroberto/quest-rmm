@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <title>Questionário RMM</title>
+</head>
+<body>
+<div id="container">
+    <div class="box">
+        <h1>[Questionário] - Avaliação de Líder e Empregador</h1>
+        <p> O presente questionário consiste em avaliar a liderança do Escritório de Advocacia Ruy de Mello Miller, colhendo de forma <b>anônima</b>, informações de seus colaboradores.</p><br>
+
+        <input type="button" onclick="location.href='./colaborador.php';" value="Sou Estagiário(a)  /  Advogado(a)">
+        <input type="button" onclick="location.href='./lider.php';" value="Sou Líder  /  Administrativo">
+    </div>
+</div>
+</body>
+</html>
